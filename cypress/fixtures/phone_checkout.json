@@ -1,0 +1,7 @@
+{
+  "typePhone" : "div[id='entry_217822'] input[placeholder='Search For Products']",
+  "click_search_button": "button[class='type-text']",
+  "hover_over_phone": "a[id='mz-product-grid-image-40-212469'] div[class='carousel-item active'] img[title='iPhone']",
+  "Click_On_cart": "button[class='btn btn-cart cart-40'] i[class='fas fa-shopping-cart']"
+
+}
